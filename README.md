@@ -2,8 +2,7 @@
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Python, Transformers Models, LLMs and API functions.
 - 💞️ I’m looking to collaborate on Machine learning Projects.
-- 📫 How to reach me my email - adarshpandeywo@gmail.com
-- 😄 Pronouns: he/him
+- 📫 How to reach me - adarshpandeywo@gmail.com
 - ⚡ Fun fact: i like to train machines because i like taking control 🤖
 
 <!---
