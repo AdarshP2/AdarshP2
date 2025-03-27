@@ -14,8 +14,11 @@ Through my work and personal projects, I've had the opportunity to work with a v
 **Programming Languages**: Python, SQL
 
 **AI/ML Models**:
+
 **Machine Learning**: SVM, Logistic Regression, Clustering, RNN, ANN, SARIMAX, Auto-ARIMA
+
 **Large Language Models**: GPT, BERT, Llama, Cohere
+
 **Vision AI Models**: SAM dinov2, gpt4 vision, gtp4o
 
 **Libraries and Frameworks**: RAGAS, Langchain, Uptrain, DeepEval, Pandas, TensorFlow, Transformers, LSTM, OpenCV, Streamlit
@@ -26,7 +29,8 @@ Through my work and personal projects, I've had the opportunity to work with a v
 
 **Data Visualization Tools**: PowerBI, Excel
 
-**Contact**
+
+**Contact:**
 
 
 **LinkedIn**: https://www.linkedin.com/in/justadarsh/
