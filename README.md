@@ -1,5 +1,7 @@
-**Introduction -**
+# Hey there, I'm Adarsh Pandey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
+**AI/ML Engineer**  
+Bhopal, Madhya Pradesh | [Email Me](mailto:adarshpandeywo@gmail.com) | [LinkedIn](https://linkedin.com/in/justadarsh)
 
 Welcome to my GitHub profile! I'm Adarsh Pandey, a recent graduate from the Oriental Institute of Science and Technology, Bhopal, with a specialization in Data Science. I'm currently working as an AI/ML Engineer at SSR Fintech, where I focus on developing innovative AI solutions for financial forecasting and data analysis.
 
