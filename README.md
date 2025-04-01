@@ -5,7 +5,7 @@
 
 ---
 
-**Welcome to my GitHub profile!** I'm Adarsh Pandey, a recent graduate from the Oriental Institute of Science and Technology, Bhopal, specializing in Data Science. I'm currently working as an AI/ML Engineer at SSR Fintech, where I focus on developing innovative AI solutions for financial forecasting and data analysis.
+**Welcome to my GitHub profile!** I'm Adarsh Pandey, specializing in Data Science. I focus on developing innovative AI solutions for financial forecasting and data analysis.
 
 My passion lies in leveraging the power of Artificial Intelligence and Machine Learning to solve complex real-world problems. I have hands-on experience in building AI-powered tools and integrating them into business applications, allowing me to make impactful contributions to data-driven decision-making.
 
